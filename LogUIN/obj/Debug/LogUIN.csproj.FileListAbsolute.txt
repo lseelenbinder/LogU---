@@ -1,0 +1,10 @@
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.exe.config
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.exe
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.pdb
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\LogUIN.MainForm.resources
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\LogUIN.Properties.Resources.resources
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\ResGen.read.1.tlog
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\ResGen.write.1.tlog
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\LogUIN.exe
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\Debug\LogUIN.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\LogUIN.MainForm.resources
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\LogUIN.Properties.Resources.resources
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.exe
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.pdb
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\LogUIN.exe
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\LogUIN.pdb
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\bin\Debug\LogUIN.exe.config
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ethan Travis McGee\Desktop\bulletshot60_logun\LogUIN\obj\x86\Debug\GenerateResource.write.1.tlog
